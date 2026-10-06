@@ -1,0 +1,16 @@
+{
+  "name": "barista-portfolio-courses",
+  "version": "1.0.0",
+  "private": true,
+  "description": "咖啡师履历与课程站：公开展示拉花/比赛/学习阶段，管理端编辑门店与课程，数据库连接成长证据、素材与预约",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "seed": "node src/seed.js",
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "express": "^4.21.2"
+  }
+}
