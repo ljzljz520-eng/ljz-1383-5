@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs><radialGradient id="g" cx="50%" cy="45%" r="65%">
+    <stop offset="0%" stop-color="#6f4e37"/><stop offset="100%" stop-color="#2b1d14"/>
+  </radialGradient></defs>
+  <rect width="640" height="360" fill="#efe6da"/>
+  <circle cx="320" cy="188" r="120" fill="url(#g)"/>
+  <ellipse cx="320" cy="188" rx="96" ry="86" fill="#f4e9d8" opacity="0.92"/>
+  <path d="M270 210 C300 150 340 150 370 210 C350 196 330 196 320 210 C310 196 290 196 270 210 Z" fill="#7a5230"/>
+  <circle cx="320" cy="176" r="12" fill="#7a5230"/>
+  <path d="M320 164 C312 140 326 128 318 108" stroke="#7a5230" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <text x="320" y="330" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#5a4632">天鹅拉花 · Swan Latte Art</text>
+</svg>

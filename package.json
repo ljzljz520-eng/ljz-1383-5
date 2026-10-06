@@ -1,0 +1,15 @@
+{
+  "name": "barista-cv-courses",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/index.js",
+    "seed": "node server/seed.js",
+    "test": "node test/acceptance.test.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "11.10.0",
+    "express": "^4.22.3"
+  }
+}
